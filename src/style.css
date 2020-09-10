@@ -1,0 +1,32 @@
+body {    
+    margin: 0;
+    padding: 0
+}
+
+.contain{
+    background-image: linear-gradient(to right, #ff6699, #ffa64d);
+    height: 900px;
+}
+
+h1{
+    text-align: center;
+    margin-top: 25px;
+    color: #4d0026
+}
+
+
+.form-container{
+    width: 75%;
+    margin-top: 30px;
+    margin-left: 150px;
+    padding: 20px;
+    border: 1px solid gray;
+    background-color: #e6b3cc
+}
+
+
+
+
+
+
+
